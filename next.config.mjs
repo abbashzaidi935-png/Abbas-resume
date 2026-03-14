@@ -4,9 +4,6 @@ const repoName = "Abbas-resume"
 const nextConfig = {
   output: "export",
   trailingSlash: true,
-  typescript: {
-    ignoreBuildErrors: true,
-  },
   images: {
     unoptimized: true,
   },
